@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 50px;
+    width: 950px;
+    height: 400px;
+}
+
+img {
+    display: block;
+    margin: 0 auto
+}
